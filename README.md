@@ -18,3 +18,4 @@ CapCut foi utilizado apenas para adicionar a música de fundo.
 
 ## 💭 Reflexão (Opcional)
 A parte mais complicada é a limitação que existe por ser uma conta Trial nas ferramentas. Mas para ferramentas gratuítas, até que dá pra desbravar bastante.
+Também foi necessario comprimir o video pra poder subir pro GitHub, o que adicionou mais uma marca d'agua, e reduziu a qualidade.
