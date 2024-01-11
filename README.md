@@ -4,9 +4,9 @@
 Um video explicativo sobre os tipos de Pet Food, presentes no mercado nacional.
 
 ## 🤖 Tecnologias Utilizadas
-Chat GPT
-D-ID
-CapCut
+Chat GPT;
+D-ID;
+CapCut.
 
 ## 🧐 Processo de Criação
 Foi utilizado o ChatGPT para criação do esboço das informações.
